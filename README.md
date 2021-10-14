@@ -1,5 +1,8 @@
 ### Hi there 👋
 [📋 My Gists](https://gist.github.com/JosefKuchar/)
+
+![JosefKuchar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosefKuchar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true)
+
 <!--
 **JosefKuchar/JosefKuchar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
